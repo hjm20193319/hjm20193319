@@ -30,5 +30,14 @@
   <img src="https://img.shields.io/badge/Simulink-DA291C?style=for-the-badge&logo=simulink&logoColor=white">
 </p>
 
+<div align="center">
+
+---
+### 🚗 Thanks for visiting!
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rock+Salt&size=25&duration=4000&color=36BCF7&lines=Welcome+to+my+profile;Keep+on+driving+forward!)](https://git.io/typing-svg)
+---
+
+</div>
+
 <img src="https://capsule-render.vercel.app/api?type=rect&color=auto&height=200§ion=footer&text=Automotive%20Engineer&fontSize=70&fontColor=36BCF7" />
 
