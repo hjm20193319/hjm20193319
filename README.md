@@ -1,5 +1,5 @@
 <!-- 헤더 -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200§ion=header&text=JESUS%20Loves YOU!&fontSize=70" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200§ion=header&text=JESUS%20LovesYOU!&fontSize=70" />
 
 ### 👋 Hi! I'm JinMyeong Ha.
 
