@@ -30,3 +30,5 @@
   <img src="https://img.shields.io/badge/Simulink-DA291C?style=for-the-badge&logo=simulink&logoColor=white">
 </p>
 
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=150§ion=footer" />
